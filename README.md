@@ -1,9 +1,9 @@
 ## MyMoney App
-# To manage finances in the community/group this app creates transparency.
+To manage finances in the community/group this app creates transparency.
 
 ## Installation
 
-This is a built on [React](https://reactjs.org/)
+Follow below instructions
 
 # Boot up project
 
